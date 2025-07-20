@@ -85,7 +85,7 @@ Edit the `scan_profiles` array in the script to add/modify predefined scans.
 4. Avoid using `-T5` timing template in production networks
 
 
-- 1.0.0 (12 June 2025)
+- 1.0.0 (21 July 2025)
   - Initial release
   - Core scanning functionality
   - Interactive menu system
